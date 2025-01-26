@@ -56,3 +56,4 @@ class Mapmanager():
                        block = self.addBlock((x, y, z0))
                    x += 1
                y += 1
+       return x,y
